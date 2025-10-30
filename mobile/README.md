@@ -1,4 +1,5 @@
-# İyilik Kervanı - Mobil Uygulama
+# İyilik Kervanı - Mobil ve Web Uygulama 
+
 
 React Native ve Expo ile geliştirilmiş modern mobil uygulama.
 

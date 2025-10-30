@@ -1,5 +1,5 @@
 ==========================================
-  ANDROID APK BUILD TALIMATLARI
+  ANDROID APK BUILD SELDANIN TALIMATLARI
 ==========================================
 
 ADIM 1: Android Studio'yu açın

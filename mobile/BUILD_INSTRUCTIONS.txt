@@ -1,0 +1,26 @@
+==========================================
+  ANDROID APK BUILD TALIMATLARI
+==========================================
+
+ADIM 1: Android Studio'yu açın
+
+ADIM 2: Android Studio'da Terminal'i açın
+   - Menüden: View > Tool Windows > Terminal
+   - Veya: Alt+F12 kısayolu
+
+ADIM 3: Terminal'de şu komutları çalıştırın:
+
+   cd C:\SELDA\imobil\mobile\android
+   gradlew.bat assembleDebug
+
+ADIM 4: Build tamamlandığında APK dosyası şu konumda olacak:
+
+   C:\SELDA\imobil\mobile\android\app\build\outputs\apk\debug\app-debug.apk
+
+==========================================
+NOT: Android Studio'nun terminal'i otomatik olarak
+     JAVA_HOME ve ANDROID_HOME değişkenlerini ayarlar.
+==========================================
+
+Build süresi: İlk build 5-10 dakika sürebilir.
+Sonraki build'ler daha hızlıdır (1-2 dakika).

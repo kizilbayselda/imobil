@@ -4,13 +4,7 @@
     "slug": "iyilik-kervani-mobile",
     "version": "2.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ba0840"
-    },
     "assetBundlePatterns": [
       "**/*"
     ],
@@ -19,18 +13,12 @@
       "bundleIdentifier": "com.iyilikkervani.mobile"
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ba0840"
-      },
       "package": "com.iyilikkervani.mobile"
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
     },
     "scheme": "iyilik-kervani",
     "plugins": [
-      "expo-router"
+      "expo-router",
+      "expo-asset"
     ]
   }
 }
